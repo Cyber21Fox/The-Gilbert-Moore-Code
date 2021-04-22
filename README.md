@@ -1,3 +1,3 @@
 # The Gilbert Moore Code
 ## Result
-![Result](/io.png)
+![Result](https://github.com/D41C/The-Gilbert-Moore-Code/blob/master/io.PNG)
